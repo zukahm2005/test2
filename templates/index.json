@@ -15,7 +15,11 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "222222",
+<<<<<<< HEAD
+            "heading": "Browse our latest products 222222",
+=======
+            "heading": "Browse our latest products 3333",
+>>>>>>> origin/main
             "heading_size": "h0"
           }
         },
